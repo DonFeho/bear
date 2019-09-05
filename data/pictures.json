@@ -1,0 +1,577 @@
+[
+  {
+    "instatnse": "picture",
+    "name": "космос",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-1.jpg",
+    "imgLink": "/a-img/p1/pic/p1-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "ab ovo(диптих)",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-2.jpg",
+    "imgLink": "/a-img/p1/pic/p1-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "дебет-кредит(диптих)",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-3.jpg",
+    "imgLink": "/a-img/p1/pic/p1-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "магдалина",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-4.jpg",
+    "imgLink": "/a-img/p1/pic/p1-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "земля жінка",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-5.jpg",
+    "imgLink": "/a-img/p1/pic/p1-5.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "земля чоловік",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-6.jpg",
+    "imgLink": "/a-img/p1/pic/p1-6.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "відлуння",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-7.jpg",
+    "imgLink": "/a-img/p1/pic/p1-7.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "шезлонги",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-8.jpg",
+    "imgLink": "/a-img/p1/pic/p1-8.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "прийди в зелений діл",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-9.jpg",
+    "imgLink": "/a-img/p1/pic/p1-9.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "баласт",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-10.jpg",
+    "imgLink": "/a-img/p1/pic/p1-10.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "",
+    "type": "project",
+    "typeId": "p1",
+    "imgLinkPrev": "/a-img/p1/p1-11.jpg",
+    "imgLink": "/a-img/p1/pic/p1-11.jpg"
+  },
+
+  {
+    "instatnse": "picture",
+    "name": "блудний син (диптих)",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-1.jpg",
+    "imgLink": "/a-img/p2/pic/p2-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "магдалина (диптих)",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-2.jpg",
+    "imgLink": "/a-img/p2/pic/p2-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "вавилон",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-3.jpg",
+    "imgLink": "/a-img/p2/pic/p2-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "поліетиленова маска",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-4.jpg",
+    "imgLink": "/a-img/p2/pic/p2-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "флоуресцентна риба",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-5.jpg",
+    "imgLink": "/a-img/p2/pic/p2-5.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "alter ego",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-6.jpg",
+    "imgLink": "/a-img/p2/pic/p2-6.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "ab ovo",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-7.jpg",
+    "imgLink": "/a-img/p2/pic/p2-7.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "чоловік і клітка",
+    "type": "project",
+    "typeId": "p2",
+    "imgLinkPrev": "/a-img/p2/p2-8.jpg",
+    "imgLink": "/a-img/p2/pic/p2-8.jpg"
+  },
+
+  {
+    "instatnse": "picture",
+    "name": "шезлонг жовтий",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-1.jpg",
+    "imgLink": "/a-img/p3/pic/p3-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "альфапозиція",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-2.jpg",
+    "imgLink": "/a-img/p3/pic/p3-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "лоби і очі",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-3.jpg",
+    "imgLink": "/a-img/p3/pic/p3-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "генезис",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-4.jpg",
+    "imgLink": "/a-img/p3/pic/p3-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "флюгер",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-5.jpg",
+    "imgLink": "/a-img/p3/pic/p3-5.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "гравітація",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-6.jpg",
+    "imgLink": "/a-img/p3/pic/p3-6.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "шлагбаум",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-7.jpg",
+    "imgLink": "/a-img/p3/pic/p3-7.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "відлуння",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-8.jpg",
+    "imgLink": "/a-img/p3/pic/p3-8.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "острів пасхи",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-9.jpg",
+    "imgLink": "/a-img/p3/pic/p3-9.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "леда",
+    "type": "project",
+    "typeId": "p3",
+    "imgLinkPrev": "/a-img/p3/p3-10.jpg",
+    "imgLink": "/a-img/p3/pic/p3-10.jpg"
+  },
+
+  {
+    "instatnse": "picture",
+    "name": "забава курей і хат",
+    "type": "series",
+    "typeId": "s1",
+    "imgLinkPrev": "/a-img/per/per-1.jpg",
+    "imgLink": "/a-img/per/pic/per-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "кораблі і цукрові буряки",
+    "type": "series",
+    "typeId": "s1",
+    "imgLinkPrev": "/a-img/per/per-2.jpg",
+    "imgLink": "/a-img/per/pic/per-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "дами з парасольками",
+    "type": "series",
+    "typeId": "s1",
+    "imgLinkPrev": "/a-img/per/per-3.jpg",
+    "imgLink": "/a-img/per/pic/per-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "вказування дороги вершникові",
+    "type": "series",
+    "typeId": "s1",
+    "imgLinkPrev": "/a-img/per/per-4.jpg",
+    "imgLink": "/a-img/per/pic/per-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "богоматір з паперовими локонами",
+    "type": "series",
+    "typeId": "s1",
+    "imgLinkPrev": "/a-img/per/per-5.jpg",
+    "imgLink": "/a-img/per/pic/per-5.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "з`ява міщан на вулиці",
+    "type": "series",
+    "typeId": "s1",
+    "imgLinkPrev": "/a-img/per/per-6.jpg",
+    "imgLink": "/a-img/per/pic/per-6.jpg"
+  },
+
+  {
+    "instatnse": "picture",
+    "name": "евакуація /червоний капелюшок/",
+    "type": "series",
+    "typeId": "s2",
+    "imgLinkPrev": "/a-img/eva/eva-1.jpg",
+    "imgLink": "/a-img/eva/pic/eva-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /сірий день/",
+    "type": "series",
+    "typeId": "s2",
+    "imgLinkPrev": "/a-img/eva/eva-2.jpg",
+    "imgLink": "/a-img/eva/pic/eva-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /миська/",
+    "type": "series",
+    "typeId": "s2",
+    "imgLinkPrev": "/a-img/eva/eva-3.jpg",
+    "imgLink": "/a-img/eva/pic/eva-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /лет метелика/",
+    "type": "series",
+    "typeId": "s2",
+    "imgLinkPrev": "/a-img/eva/eva-4.jpg",
+    "imgLink": "/a-img/eva/pic/eva-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /тріумф життя/",
+    "type": "series",
+    "typeId": "s2",
+    "imgLinkPrev": "/a-img/eva/eva-5.jpg",
+    "imgLink": "/a-img/eva/pic/eva-5.jpg"
+  },
+
+  {
+    "instatnse": "picture",
+    "name": "евакуація /вітрила/",
+    "type": "series",
+    "typeId": "s3",
+    "imgLinkPrev": "/a-img/eva2/eva2-1.jpg",
+    "imgLink": "/a-img/eva2/pic/eva2-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /весла/",
+    "type": "series",
+    "typeId": "s3",
+    "imgLinkPrev": "/a-img/eva2/eva2-2.jpg",
+    "imgLink": "/a-img/eva2/pic/eva2-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /шинелі/",
+    "type": "series",
+    "typeId": "s3",
+    "imgLinkPrev": "/a-img/eva2/eva2-3.jpg",
+    "imgLink": "/a-img/eva2/pic/eva2-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /жовта/",
+    "type": "series",
+    "typeId": "s3",
+    "imgLinkPrev": "/a-img/eva2/eva2-4.jpg",
+    "imgLink": "/a-img/eva2/pic/eva2-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "евакуація /мілітарія/ (триптих)",
+    "type": "series",
+    "typeId": "s3",
+    "imgLinkPrev": "/a-img/eva2/eva2-5.jpg",
+    "imgLink": "/a-img/eva2/pic/eva2-5.jpg"
+  },
+
+  {
+    "instatnse": "picture",
+    "name": "паперовий змій",
+    "type": "series",
+    "typeId": "s4",
+    "imgLinkPrev": "/a-img/br/br-1.jpg",
+    "imgLink": "/a-img/br/pic/br-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "запуск паперового змія-1",
+    "type": "series",
+    "typeId": "s4",
+    "imgLinkPrev": "/a-img/br/br-2.jpg",
+    "imgLink": "/a-img/br/pic/br-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "запуск паперового змія-2",
+    "type": "series",
+    "typeId": "s4",
+    "imgLinkPrev": "/a-img/br/br-3.jpg",
+    "imgLink": "/a-img/br/pic/br-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "хлопчики з колесами",
+    "type": "series",
+    "typeId": "s4",
+    "imgLinkPrev": "/a-img/br/br-4.jpg",
+    "imgLink": "/a-img/br/pic/br-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "серпень",
+    "type": "series",
+    "typeId": "s4",
+    "imgLinkPrev": "/a-img/br/br-5.jpg",
+    "imgLink": "/a-img/br/pic/br-5.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "околиця",
+    "type": "series",
+    "typeId": "s4",
+    "imgLinkPrev": "/a-img/br/br-6.jpg",
+    "imgLink": "/a-img/br/pic/br-6.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "розточчя-лозина",
+    "type": "series",
+    "typeId": "s5",
+    "imgLinkPrev": "/a-img/roz/roz-1.jpg",
+    "imgLink": "/a-img/roz/pic/roz-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "розточчя-бірки",
+    "type": "series",
+    "typeId": "s5",
+    "imgLinkPrev": "/a-img/roz/roz-2.jpg",
+    "imgLink": "/a-img/roz/pic/roz-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "переднє розточчя",
+    "type": "series",
+    "typeId": "s5",
+    "imgLinkPrev": "/a-img/roz/roz-3.jpg",
+    "imgLink": "/a-img/roz/pic/roz-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "нешлюбні дочки",
+    "type": "series",
+    "typeId": "s5",
+    "imgLinkPrev": "/a-img/roz/roz-4.jpg",
+    "imgLink": "/a-img/roz/pic/roz-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "опустілий пляж",
+    "type": "series",
+    "typeId": "s5",
+    "imgLinkPrev": "/a-img/roz/roz-5.jpg",
+    "imgLink": "/a-img/roz/pic/roz-5.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "сліпий дощ",
+    "type": "series",
+    "typeId": "s5",
+    "imgLinkPrev": "/a-img/roz/roz-6.jpg",
+    "imgLink": "/a-img/roz/pic/roz-6.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "сліпий дощ 2",
+    "type": "series",
+    "typeId": "s5",
+    "imgLinkPrev": "/a-img/roz/roz-7.jpg",
+    "imgLink": "/a-img/roz/pic/roz-7.jpg"
+  },
+
+  {
+    "instatnse": "picture",
+    "name": "голубий інтер`єр",
+    "type": "series",
+    "typeId": "s6",
+    "imgLinkPrev": "/a-img/int/int-1.jpg",
+    "imgLink": "/a-img/int/pic/int-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "зелений інтер`єр",
+    "type": "series",
+    "typeId": "s6",
+    "imgLinkPrev": "/a-img/int/int-2.jpg",
+    "imgLink": "/a-img/int/pic/int-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "жовтий інтер`єр",
+    "type": "series",
+    "typeId": "s6",
+    "imgLinkPrev": "/a-img/int/int-3.jpg",
+    "imgLink": "/a-img/int/pic/int-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "дігнати метелика",
+    "type": "series",
+    "typeId": "s7",
+    "imgLinkPrev": "/a-img/son/son-1.jpg",
+    "imgLink": "/a-img/son/pic/son-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "блудний син",
+    "type": "series",
+    "typeId": "s7",
+    "imgLinkPrev": "/a-img/son/son-2.jpg",
+    "imgLink": "/a-img/son/pic/son-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "один по одному",
+    "type": "series",
+    "typeId": "s7",
+    "imgLinkPrev": "/a-img/son/son-3.jpg",
+    "imgLink": "/a-img/son/pic/son-3.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "синдром еволюції",
+    "type": "series",
+    "typeId": "s7",
+    "imgLinkPrev": "/a-img/son/son-4.jpg",
+    "imgLink": "/a-img/son/pic/son-4.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "інвентаризація",
+    "type": "series",
+    "typeId": "s7",
+    "imgLinkPrev": "/a-img/son/son-5.jpg",
+    "imgLink": "/a-img/son/pic/son-5.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "пісочний годинник",
+    "type": "series",
+    "typeId": "s7",
+    "imgLinkPrev": "/a-img/son/son-6.jpg",
+    "imgLink": "/a-img/son/pic/son-6.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "terra incognita",
+    "type": "series",
+    "typeId": "s8",
+    "imgLinkPrev": "/a-img/tin/tin-1.jpg",
+    "imgLink": "/a-img/tin/pic/tin-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "terra incognita (триптих)",
+    "type": "series",
+    "typeId": "s8",
+    "imgLinkPrev": "/a-img/tin/tin-2.jpg",
+    "imgLink": "/a-img/tin/pic/tin-2.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "ecce homo 1",
+    "type": "series",
+    "typeId": "s9",
+    "imgLinkPrev": "/a-img/eh/eh-1.jpg",
+    "imgLink": "/a-img/eh/pic/eh-1.jpg"
+  },
+  {
+    "instatnse": "picture",
+    "name": "ecce homo 2",
+    "type": "series",
+    "typeId": "s9",
+    "imgLinkPrev": "/a-img/eh/eh-2.jpg",
+    "imgLink": "/a-img/eh/pic/eh-2.jpg"
+  }
+]

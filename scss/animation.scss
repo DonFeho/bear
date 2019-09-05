@@ -1,0 +1,95 @@
+:root {
+  --primary-color: #6e6756;
+  --orange-color: #d88900;
+}
+
+.animation-flash-intro {
+  animation: flash-intro 2.5s ease-in-out;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  align-self: 1s;
+}
+.animation-left-intro {
+  animation: left-intro 2.5s ease-in-out;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  align-self: 1s;
+}
+.animation-intro {
+  animation: intro 1.5s ease-in-out;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  align-self: 1s;
+}
+
+@keyframes left-intro {
+  0% {
+    opacity: 0;
+    margin-left: -50%;
+    text-shadow: none;
+  }
+  75% {
+    opacity: 0.5;
+  }
+  90% {
+    opacity: 1;
+    margin-left: 0;
+    text-shadow: none;
+  }
+  98% {
+    opacity: 0;
+    margin-left: 0;
+    text-shadow: 1px 1px 10px var(--orange-color);
+  }
+  99% {
+    opacity: 1;
+    margin-left: 0;
+    text-shadow: 1px 1px 10px var(--orange-color);
+  }
+  100% {
+    opacity: 1;
+    text-shadow: 1px 1px 10px var(--primary-color);
+  }
+}
+
+@keyframes flash-intro {
+  0% {
+    opacity: 0;
+
+    text-shadow: none;
+  }
+  75% {
+    opacity: 0.8;
+  }
+  90% {
+    opacity: 1;
+
+    text-shadow: none;
+  }
+  98% {
+    opacity: 0;
+  }
+  99% {
+    opacity: 1;
+    text-shadow: 1px 1px 10px var(--orange-color);
+  }
+  100% {
+    opacity: 1;
+    text-shadow: 1px 1px 10px var(--orange-color);
+  }
+}
+
+@keyframes intro {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.7;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+// animation: intro 1s ease-in-out both alternate infinite;
